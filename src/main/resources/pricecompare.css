@@ -1,0 +1,19 @@
+* 
+{
+    /* This is the default Windows-font */
+
+
+}
+
+.text
+{
+  -fx-font-family: "Segoe UI Semibold";
+  -fx-font-size: 10.5;
+  -fx-font-smoothing-type: lcd;
+}
+
+#cRed 
+{
+  -fx-background-color: red;
+}
+

@@ -1,0 +1,24 @@
+autostart : yes
+forcefastmode : no
+nosound : no
+test : no
+modena : yes  
+customcss : no 
+scroll : no
+
+akka {
+  loggers = ["akka.event.slf4j.Slf4jLogger"]
+  loglevel = "WARNING"
+
+  debug {
+    receive = off
+    autoreceive = off
+    lifecycle = off
+    fsm = off
+    event-stream = off
+    unhandled = off
+  }
+}
+
+
+

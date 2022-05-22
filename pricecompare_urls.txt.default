@@ -1,0 +1,14 @@
+https://xit.jvr.de/pricecompare/pricetest.txt 39,90 test
+https://xit.jvr.de/pricecompare/pricetest.txt 39,90
+https://xit.jvr.de/pricecompare/pricetest.txt Error, price missing!
+https://xit.jvr.de/pricecompare/pricetest.txt 39,90 Should be "ok"
+https://xit.jvr.de/pricecompare/pricetest.txt 39,95 Should be "changed i.e. OK = RED"
+https://xit.jvr.de/pricecompare/pricetest.txt 39,90 Should be "ok"
+https://xit.jvr.de/pricecompare/pricetestLong.txt 39,90 Should be "ok"
+https://xit.jvr.de/pricecompare/pricetest_no_price.txt 39,90 Should be "not found!"
+https://xit.jvr.de/pricecompare/pricetest.txt 39,90 Should be "ok"
+https://xit.jvr.de/pricecompare/pricetest_not_existent.txt 39,90 Should be "not found!" + errormessage
+https://xit.jvr.de/pricecompare/pricetest_codec.html 39,90 Can be be "not found!" + errormessage, but can be "ok" too!
+https://xit.jvr.de/pricecompare/pricetest_codec.html 39,90 cp1252 Should be "ok"
+https://xit.jvr.de/pricecompare/pricetest.txt 39,90 Should be "ok"
+https://xit.jvr.de/pricecompare/pricetest.txt 39,90 END!
