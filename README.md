@@ -58,8 +58,8 @@ Copyright (c) 2022 J. v. Roos
 
 
 ##### Virusscan at Virustotal 
-[Virusscan at Virustotal, pricecompare_loader.exe file, Check here](https://www.virustotal.com/gui/url/d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201/detection/u-d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201-1653217400
+[Virusscan at Virustotal, pricecompare_loader.exe file, Check here](https://www.virustotal.com/gui/url/d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201/detection/u-d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201-1653571263
 )  
-[Virusscan at Virustotal, pricecompare_loader.jar file, Check here](https://www.virustotal.com/gui/url/81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14/detection/u-81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14-1653217401
+[Virusscan at Virustotal, pricecompare_loader.jar file, Check here](https://www.virustotal.com/gui/url/81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14/detection/u-81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14-1653571264
 )  
 Use [CTRL] + Click to open in a new window! 
