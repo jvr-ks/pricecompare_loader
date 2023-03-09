@@ -1,0 +1,8 @@
+www.viabiona.com~<span class="price">.*?(\d+[.,]\d+)</span>
+www.primaveralife.com~<span class="price">.*?(\d+[.,]\d+)
+www.satnam.de~content=".*">(\d*[.,]\d*)
+www.satnam.de~itemprop="price".*?>(\d*[.,]\d*)
+alvito.com~<p class="product-detail-price">[\r\n]*.*?(\d*[.,]\d*)
+www.ebay.de~<span id="convbidPrice" .*?>EUR (\d*[.,]\d*)
+xit.jvr.de~class="price">.+?(\d+[.,]\d+)
+www.allcura.de~<meta property="product:price" content="(\d+[.,]\d+)" \/>

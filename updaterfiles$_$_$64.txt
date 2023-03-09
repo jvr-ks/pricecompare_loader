@@ -1,0 +1,9 @@
+pricecompare_loader.exe
+pricecomparefat.jar
+loader.ini
+alertsound.mp3
+application.conf
+guiconfig.xml
+Licenses.txt
+pricecompare_urls.txt
+priceextractors.txt

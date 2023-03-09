@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="pricecompare" default="default" basedir=".">
+	
+	<taskdef name="exe4j"
+		classname="com.exe4j.Exe4JTask"
+		classpath="C:\Program Files\exe4j\bin\ant.jar"/>
+	<target name="default">
+		<exe4j projectfile="pricecompare.exe4j"/>
+	</target>
+	
+</project>
+
+
