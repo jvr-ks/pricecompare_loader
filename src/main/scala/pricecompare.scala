@@ -150,7 +150,7 @@ object Guidata {
 //------------------------------- Pricecompare -------------------------------
 object Pricecompare extends JFXApp3 {
 
-  val version = "0.143"
+  val version = "0.144"
   val appVersion = "0.134"
 
   val appname = "pricecompare"
