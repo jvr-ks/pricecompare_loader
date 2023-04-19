@@ -101,7 +101,7 @@ lazy val root = (project in file("."))
      case x => MergeStrategy.first
     },
     assembly / assemblyJarName := "pricecompare.jar",
-      javaOptions += "-Dconfig.override_with_env_vars=true",
+    javaOptions += "-Dconfig.override_with_env_vars=true",
     javaOptions += "-D--module-path=/org/openjfx/",
     javaOptions += "-D--add-modules=javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web",
     javaOptions += "-D--add-reads=javafx.graphics=ALL-UNNAMED",
