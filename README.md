@@ -3,6 +3,7 @@ App (64 bit Windows 10 only) comparing product prices on webpages with those lis
   
 # Java runtime is required  
 The "_loader"-version uses the Java virtual machine, so an installed JVM is required!  
+"pricecomparefat.jar" is compiled with GraalVM Community Java 20.0.2, (newer will possible fail).  
   
 #### Download:  
 Portable, run from any directory, but running from a subdirectory of the windows programm-directories   
