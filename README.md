@@ -1,9 +1,8 @@
 # Pricecompare_loader
 App (64 bit Windows 10 only) comparing product prices on webpages with those listed in a text-file.
   
-The "_loader"-version uses the Java virtual machine, so an installed JVM is required:  
-
-# Java runtime (version 11+) is required
+# Java runtime is required  
+The "_loader"-version uses the Java virtual machine, so an installed JVM is required!  
   
 #### Download:  
 Portable, run from any directory, but running from a subdirectory of the windows programm-directories   
@@ -53,8 +52,8 @@ Copyright (c) 2022 J. v. Roos
 
 
 ##### Virusscan at Virustotal 
-[Virusscan at Virustotal, pricecompare_loader.exe file, Check here](https://www.virustotal.com/gui/url/d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201/detection/u-d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201-1697185375
+[Virusscan at Virustotal, pricecompare_loader.exe file, Check here](https://www.virustotal.com/gui/url/d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201/detection/u-d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201-1697190523
 )  
-[Virusscan at Virustotal, pricecompare_loader.jar file, Check here](https://www.virustotal.com/gui/url/81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14/detection/u-81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14-1697185376
+[Virusscan at Virustotal, pricecompare_loader.jar file, Check here](https://www.virustotal.com/gui/url/81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14/detection/u-81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14-1697190524
 )  
 Use [CTRL] + Click to open in a new window! 
