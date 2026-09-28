@@ -45,16 +45,16 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Copyright (c) 2022 J. v. Roos
   
 ##### Virusscan of support files
-[Virusscan of updater*.exe -> Updater project](https://github.com/jvr-ks/updater)  
-[Virusscan of loader*.exe (= pricecompare_loader.exe) -> Loader project](https://github.com/jvr-ks/loader)  
+[Virusscan of updater*.exe -&gt; Updater project](https://github.com/jvr-ks/updater)  
+[Virusscan of loader*.exe (= pricecompare_loader.exe) -&gt; Loader project](https://github.com/jvr-ks/loader)  
 
 <a name="virusscan">
 
 
 
 ##### Virusscan at Virustotal 
-[Virusscan at Virustotal, pricecompare_loader.exe file, Check here](https://www.virustotal.com/gui/url/d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201/detection/u-d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201-1697190523
+[Virusscan at Virustotal, pricecompare_loader.exe file, Check here](https://www.virustotal.com/gui/url/d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201/detection/u-d4a6697267f692dc33e114acfc19590f46365abbd495e6908e8c73f53815b201-1790600144
 )  
-[Virusscan at Virustotal, pricecompare_loader.jar file, Check here](https://www.virustotal.com/gui/url/81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14/detection/u-81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14-1697190524
+[Virusscan at Virustotal, pricecompare_loader.jar file, Check here](https://www.virustotal.com/gui/url/81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14/detection/u-81ad5881fca47460d303646047681dd654308205a570db34395801ce50a59a14-1790600145
 )  
 Use [CTRL] + Click to open in a new window! 
